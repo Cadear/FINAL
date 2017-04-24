@@ -1,6 +1,7 @@
 h1{
           font-size:80px;
           color:red;
+          font-family: 'Open Sans Condensed', sans-serif;
 }
 body{
   background-image: url("ALHS.gif");
