@@ -7,6 +7,10 @@ body{
   background-image: url("ALHS.gif");
 }
 p{
-
+  font-size:80px;
   color: #615bff;
+}
+#it{
+   font-size:80px;
+   color:#f44242;
 }
