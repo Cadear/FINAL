@@ -34,3 +34,10 @@ p{
    75%  {color:green;}
    100% {color:red;}
 }
+table{
+
+}
+#court{
+  width: 50%;
+  height: auto;
+}
