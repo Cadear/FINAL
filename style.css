@@ -44,4 +44,6 @@ table{
 #j{
   width: 50%;
   height: auto;
+}#news
+  background-image: url("ball.jpg");
 }
